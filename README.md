@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**biswajitSM/biswajitSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Hi I am Biswajit
+### Hi I am Biswajit 👋
 
 - 🔭 I’m currently working on biophysics of DNA organization using Microscope and Data analysis. I am developing a software that helps analyze DNA-protein interactions; the data being recorded on a microscope preferably at single molecule level.
 - 🌱 I’m currently learning machine learning for the analysis biological images.
